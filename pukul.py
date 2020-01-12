@@ -91,7 +91,7 @@ def usage():
 	╩═╝└─┘└─┘┴ ┴ ┴ ┴  ═╩╝═╩╝└─┘╚═╝
 	Pukulan Lucita Luna Dos Script v.1
 	Pembuat tidak bertanggung jawab jika digunakan untuk melawan hukum.
-	Pembuat tidak bertanggung jawab jika Lucita Luna hamil :).
+	PEMBUAT BERNAMA [ HADI ] .
 	Script ini recode ke bahasa indonesia dari script Hammer v.1 \n
 	cara pakai : python3 pukul.py [-s] [-p] [-t]
 	contoh : python3 pukul.py -s 192.168.0.1 -p 80 -t 135	
